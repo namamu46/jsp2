@@ -1,0 +1,42 @@
+#can {
+  background-color: gray;
+  margin:50px auto;
+}
+
+#container1{
+background-color: silver;
+text-align:center;
+padding:1px;
+}
+#container1 p{
+font-size:20px;
+color:blue;
+margin:0 auto;
+}
+
+#canvasdiv{
+display:flex;
+align-items: center;
+background-color:pink;
+}
+
+
+
+#container2{
+background-color: darkgray;
+}
+
+
+#contdiv{
+  display:flex;
+  justify-content:space-between;
+}
+.keycon{
+  background-color:silver;
+  font-size:20px;
+  width:100px;
+  height:30px;
+  text-align: center;
+  margin:5px;
+  border-radius: 5px;
+}
